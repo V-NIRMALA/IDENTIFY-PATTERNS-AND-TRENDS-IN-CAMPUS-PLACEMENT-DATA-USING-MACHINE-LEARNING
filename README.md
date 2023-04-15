@@ -1,1 +1,4 @@
 # IDENTIFY-PATTERNS-AND-TRENDS-IN-CAMPUS-PLACEMENT-DATA-USING-MACHINE-LEARNING
+
+video demonstration:
+https://youtu. be/Mxe_gaCq9F4
